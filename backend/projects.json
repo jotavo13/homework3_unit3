@@ -1,0 +1,14 @@
+[
+    {
+        "name": "project1",
+        "live": "https://game1-project1.vercel.app/",
+        "git": "http://www.github.com/jotavo13/game1_project1",
+        "image": ""
+    },
+    {
+        "name": "project2",
+        "live": "https://project2-fiber-records.onrender.com",
+        "git": "http://www.github.com/jotavo13/Project2_Records",
+        "image": ""
+    }
+]
